@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./servicios/ubicacion/vistas",
+        "./monitor/config"
+    ]
+}
